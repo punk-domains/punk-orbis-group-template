@@ -1,0 +1,29 @@
+{
+  "name": "punk-orbis-group-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@orbisclub/orbis-sdk": "^0.3.23",
+    "@walletconnect/web3-provider": "^1.7.8",
+    "arweave": "^1.11.4",
+    "ethereum-blockies-base64": "^1.0.2",
+    "ethers": "^5.7.0",
+    "javascript-time-ago": "^2.5.6",
+    "next": "12.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-image-file-resizer": "^0.4.8",
+    "react-string-replace": "^1.1.0",
+    "react-time-ago": "^7.2.1"
+  },
+  "devDependencies": {
+    "eslint": "8.20.0",
+    "eslint-config-next": "12.2.3"
+  }
+}
